@@ -1,6 +1,9 @@
 # anime_ui_jg
 
-A new Flutter project.
+Proyecto de cineteca japonesa
+
+![image](https://github.com/redfushion38/ChallengeYoutube/assets/59745277/b85e9b60-277b-4df7-8091-fdf84ab3c174)
+
 
 ## Getting Started
 
